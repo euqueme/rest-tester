@@ -5,3 +5,8 @@
 
   puts RestClient.get(url)
 
+  puts RestClient.get(url+'/new')
+  puts RestClient.get(url+'/edit')
+  puts RestClient.get(url+'/show')
+  
+  puts RestClient.get(url+'/create','') #this is an error

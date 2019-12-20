@@ -9,4 +9,4 @@
   puts RestClient.get(url+'/edit')
   puts RestClient.get(url+'/show')
   
-  puts RestClient.get(url+'/create','') #this is an error
+  puts RestClient.post(url+'/create','') #this is an error

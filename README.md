@@ -72,7 +72,9 @@ and finally in a different terminal inside the repo run the script
 
 ### Built With
 This project was built using these technologies.
-* Ruby 2.6.5
+* Ruby 2.6.3
+* Rails 6.0.2.1
+* RestClient
 * Ubuntu 18.4+
 * Stickler
 * VsCode

@@ -16,7 +16,7 @@ class UsersController < ApplicationController
     end
     
     def create
-      
+        @create_name = 'I am the create Action'
     end
 
 end

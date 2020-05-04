@@ -17,6 +17,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
+![Hireable](https://cdn.rawgit.com/hiendv/hireable/master/styles/default/yes.svg)
 
 <!-- PROJECT LOGO -->
 <br />
@@ -44,31 +45,22 @@
 
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
-* [Contact](#contact)
+  * [Usage](#usage)
+  * [Automated Test](#automated-test)
+* [Author](#author)
+* [Contributing](#contributing)
 * [Acknowledgements](#acknowledgements)
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+
+![Product Name Screen Shot][product-screenshot]
 
 This project it's about sending params with RestClient
 
 This is the third Microverse project of the Ruby on Rails Curriculum
 
 This is also part of the Odin project curriculum https://www.theodinproject.com/courses/ruby-on-rails/lessons/basic-routes-views-and-controllers
-
-
-<!-- ABOUT THE PROJECT -->
-## Instalation
-
-If you want to test it you need to have Ruby and Rails installed in your computer and clone or [download](https://github.com/euqueme/rest-tester/archive/master.zip) this repo as follows:
-* `$ git clone "https://github.com/euqueme/rest-tester.git"`
-
-after that you need to open a terminal inside the repo and run the rails server
-* `$ rails server`
-
-and finally in a different terminal inside the repo run the script
-* `$ ruby app/script/rest_requestor.rb`
-
 
 ### Built With
 This project was built using these technologies.
@@ -79,15 +71,46 @@ This project was built using these technologies.
 * Stickler
 * VsCode
 
+<!-- ABOUT THE PROJECT -->
+### Usage
+
+If you want to test it you need to have Ruby and Rails installed in your computer and clone or [download](https://github.com/euqueme/rest-tester/archive/master.zip) this repo as follows:
+* `$ git clone "https://github.com/euqueme/rest-tester.git"`
+
+after that you need to open a terminal inside the repo and run the rails server
+* `$ rails server`
+
+and finally in a different terminal inside the repo run the script
+* `$ ruby app/script/rest_requestor.rb`
+
+<!-- AUTOMATED TEST -->
+### Automated Test
+
+> There are no Automated Test for this project yet
+
 <!-- CONTACT -->
-## Contact
+## Author
 
-Audrey Emmanuella Odiaka - [@o___audrey_xo](https://twitter.com/o___audrey_xo) - [@audrey-ella-xo](https://github.com/audrey-ella-xo) - anitaudrey@gmail.com
-<br />
-<br />
-María Eugenia Quemé - [@MaruKK](https://twitter.com/MaruKK) - [@euqueme](https://github.com/euqueme) - euqueme@gmail.com
+👤 **Audrey Emmanuella Odiaka** 
+- Twitter: [@o___audrey_xo](https://twitter.com/o___audrey_xo) 
+- Github: [@audrey-ella-xo](https://github.com/audrey-ella-xo) 
+- Gmail: anitaudrey@gmail.com
 
-Project Link: [https://github.com/euqueme/rest-tester)
+👤 **María Eugenia Quemé** 
+
+- Twitter: [@MaruKK](https://twitter.com/MaruKK) 
+- Github: [@euqueme](https://github.com/euqueme) 
+- Gmail: euqueme@gmail.com
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/euqueme/rest-tester/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
@@ -105,3 +128,5 @@ Project Link: [https://github.com/euqueme/rest-tester)
 [stars-url]: https://github.com/euqueme/rest-tester/stargazers
 [issues-shield]: https://img.shields.io/github/issues/euqueme/rest-tester.svg?style=flat-square
 [issues-url]: https://github.com/euqueme/rest-tester/issues
+[product-screenshot]: app/assets/images/screenshot.png
+
